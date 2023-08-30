@@ -1,0 +1,14 @@
+{
+  "name": "js-testing-practice-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringUtils.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
